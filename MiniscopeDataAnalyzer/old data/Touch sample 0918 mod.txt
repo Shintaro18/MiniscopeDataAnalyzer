@@ -1,0 +1,132 @@
+1	IncorrectTouch Panel2520(0)				2019 9 18	13 14	58.483
+2	IncorrectTouch Panel3045(0)				2019 9 18	13 15	16.146
+3	CorrectTouch Panel3636(0)	2019 9 18	13 15	35.939
+4	CorrectTouch Panel4330(0)	2019 9 18	13 15	59.167
+5	CorrectTouch Panel4768(0)	2019 9 18	13 16	13.911
+6	IncorrectTouch Panel5122(0)				2019 9 18	13 16	25.822
+7	CorrectTouch Panel5659(0)	2019 9 18	13 16	43.847
+8	CorrectTouch Panel5938(0)	2019 9 18	13 16	53.206
+9	CorrectTouch Panel6308(0)	2019 9 18	13 17	5.580
+10	CorrectTouch Panel6524(0)	2019 9 18	13 17	12.830
+11	IncorrectTouch Panel7101(0)				2019 9 18	13 17	32.142
+12	IncorrectTouch Panel7598(0)				2019 9 18	13 17	48.845
+13	CorrectTouch Panel8577(0)	2019 9 18	13 18	21.632
+14	IncorrectTouch Panel8861(0)				2019 9 18	13 18	31.163
+15	CorrectTouch Panel9837(0)	2019 9 18	13 19	3.880
+16	CorrectTouch Panel10163(0)	2019 9 18	13 19	14.809
+17	CorrectTouch Panel10570(0)	2019 9 18	13 19	28.435
+18	CorrectTouch Panel10872(0)	2019 9 18	13 19	38.592
+19	CorrectTouch Panel11211(0)	2019 9 18	13 19	49.973
+20	CorrectTouch Panel11749(0)	2019 9 18	13 20	8.18
+21	CorrectTouch Panel12248(0)	2019 9 18	13 20	24.722
+22	CorrectTouch Panel12556(0)	2019 9 18	13 20	35.47
+23	IncorrectTouch Panel12840(0)				2019 9 18	13 20	44.567
+24	IncorrectTouch Panel14047(0)				2019 9 18	13 21	25.104
+25	CorrectTouch Panel14546(0)	2019 9 18	13 21	41.904
+26	CorrectTouch Panel14928(0)	2019 9 18	13 21	54.759
+27	CorrectTouch Panel15464(0)	2019 9 18	13 22	12.777
+28	IncorrectTouch Panel15905(0)				2019 9 18	13 22	27.603
+29	CorrectTouch Panel16525(0)	2019 9 18	13 22	48.385
+30	CorrectTouch Panel16856(0)	2019 9 18	13 22	59.479
+31	CorrectTouch Panel17246(0)	2019 9 18	13 23	12.540
+32	CorrectTouch Panel18273(0)	2019 9 18	13 23	46.972
+33	IncorrectTouch Panel20772(0)				2019 9 18	13 25	10.729
+34	CorrectTouch Panel21394(0)	2019 9 18	13 25	31.612
+35	CorrectTouch Panel21841(0)	2019 9 18	13 25	46.559
+36	CorrectTouch Panel22208(0)	2019 9 18	13 25	58.846
+37	CorrectTouch Panel22535(0)	2019 9 18	13 26	9.778
+38	CorrectTouch Panel23039(0)	2019 9 18	13 26	26.694
+39	CorrectTouch Panel23333(0)	2019 9 18	13 26	36.598
+40	IncorrectTouch Panel23763(0)				2019 9 18	13 26	50.985
+41	CorrectTouch Panel24244(0)	2019 9 18	13 27	7.81
+42	CorrectTouch Panel24556(0)	2019 9 18	13 27	17.584
+43	CorrectTouch Panel25050(0)	2019 9 18	13 27	34.96
+44	CorrectTouch Panel25421(0)	2019 9 18	13 27	46.528
+45	CorrectTouch Panel26023(0)	2019 9 18	13 28	6.743
+46	CorrectTouch Panel26349(0)	2019 9 18	13 28	17.668
+47	IncorrectTouch Panel27017(0)				2019 9 18	13 28	40.41
+48	CorrectTouch Panel31997(0)	2019 9 18	13 31	26.819
+49	CorrectTouch Panel32592(0)	2019 9 18	13 31	46.777
+50	CorrectTouch Panel33101(0)	2019 9 18	13 32	3.844
+51	CorrectTouch Panel33642(0)	2019 9 18	13 32	21.986
+52	CorrectTouch Panel34127(0)	2019 9 18	13 32	38.206
+53	CorrectTouch Panel34476(0)	2019 9 18	13 32	49.926
+54	CorrectTouch Panel35219(0)	2019 9 18	13 33	14.806
+55	CorrectTouch Panel36053(0)	2019 9 18	13 33	42.789
+56	CorrectTouch Panel36401(0)	2019 9 18	13 33	54.472
+57	CorrectTouch Panel37044(0)	2019 9 18	13 34	16.45
+58	IncorrectTouch Panel37835(0)				2019 9 18	13 34	42.528
+59	CorrectTouch Panel40584(0)	2019 9 18	13 36	14.955
+60	IncorrectTouch Panel43362(0)				2019 9 18	13 37	48.208
+61	IncorrectTouch Panel44201(0)				2019 9 18	13 38	16.447
+62	IncorrectTouch Panel44847(0)				2019 9 18	13 38	38.135
+63	CorrectTouch Panel45411(0)	2019 9 18	13 38	57.126
+64	CorrectTouch Panel46433(0)	2019 9 18	13 39	31.437
+65	CorrectTouch Panel46886(0)	2019 9 18	13 39	46.646
+66	CorrectTouch Panel47294(0)	2019 9 18	13 40	0.379
+67	CorrectTouch Panel47583(0)	2019 9 18	13 40	10.111
+68	CorrectTouch Panel47939(0)	2019 9 18	13 40	22.77
+69	CorrectTouch Panel48595(0)	2019 9 18	13 40	44.152
+70	CorrectTouch Panel49270(0)	2019 9 18	13 41	6.809
+71	CorrectTouch Panel51114(0)	2019 9 18	13 42	8.594
+72	CorrectTouch Panel51758(0)	2019 9 18	13 42	30.175
+73	CorrectTouch Panel54003(0)	2019 9 18	13 43	45.323
+74	CorrectTouch Panel57188(0)	2019 9 18	13 45	32.186
+75	CorrectTouch Panel57667(0)	2019 9 18	13 45	48.229
+76	CorrectTouch Panel58166(0)	2019 9 18	13 46	4.986
+77	CorrectTouch Panel58531(0)	2019 9 18	13 46	17.209
+78	CorrectTouch Panel58899(0)	2019 9 18	13 46	29.557
+79	CorrectTouch Panel59971(0)	2019 9 18	13 47	5.459
+80	CorrectTouch Panel60562(0)	2019 9 18	13 47	25.343
+81	CorrectTouch Panel61380(0)	2019 9 18	13 47	52.727
+82	CorrectTouch Panel62470(0)	2019 9 18	13 48	29.376
+83	CorrectTouch Panel67772(0)	2019 9 18	13 51	26.977
+84	CorrectTouch Panel68811(0)	2019 9 18	13 52	1.869
+85	CorrectTouch Panel69311(0)	2019 9 18	13 52	18.625
+86	CorrectTouch Panel69809(0)	2019 9 18	13 52	35.309
+87	IncorrectTouch Panel70358(0)				2019 9 18	13 52	53.707
+88	IncorrectTouch Panel70901(0)				2019 9 18	13 53	11.906
+89	CorrectTouch Panel72700(0)	2019 9 18	13 54	12.201
+90	CorrectTouch Panel73509(0)	2019 9 18	13 54	39.288
+91	CorrectTouch Panel75207(0)	2019 9 18	13 55	36.234
+92	CorrectTouch Panel75997(0)	2019 9 18	13 56	2.683
+93	CorrectTouch Panel78887(0)	2019 9 18	13 57	39.742
+94	CorrectTouch Panel79495(0)	2019 9 18	13 58	0.242
+95	CorrectTouch Panel79948(0)	2019 9 18	13 58	15.411
+96	CorrectTouch Panel83607(0)	2019 9 18	14 0	18.6
+97	CorrectTouch Panel84723(0)	2019 9 18	14 0	55.483
+98	CorrectTouch Panel85658(0)	2019 9 18	14 1	26.783
+CorrectNum 80  IncorrectNum 18  TotalNum 98  Correct(%) 81
+Name 760
+Task# 26
+NumOfDays 0
+LickDur(s) 3
+LickDurShort(s) 0
+AutoWaterSupLatency(s) 0
+ITI(s) 1
+MaxCorrectNum 80
+PushDur(s) 15
+EvaluateCorrectNum 0
+NecessaryCorrectNum 0
+CorrectPanel 0
+NumOfBlock 0
+NumOfDayInBlock 0
+NextTask 26
+ThToNextTask 120
+Delay 0
+DelayA 0
+DelayB 0
+DelayC 0
+DelayC1 0
+DelayC2 0
+SeedOfRandom 1
+TypeOfPanel 1
+DeviceNo 2
+NumA 0
+NumB 0
+NumC 0
+LitPattern 1
+LightPunish 1
+ResponseTime 0
+MaxTrialNum 110
+TaskTimeLimit 0
